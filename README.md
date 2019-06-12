@@ -1,0 +1,2 @@
+# Create-a-UITableView-programmatically
+Whether you prefer to use storyboards to create your UI or like to do it programmatically, knowing how to do it, either way, is key to becoming an overall better iOS developer. Below is an example of a basic UITableView being created in code.  Creating the TableView via storyboards will seem quicker and easier at first (well,  it is definitely quicker!!), but once you have done it a few times programmatically you will be able to create one with ease!
